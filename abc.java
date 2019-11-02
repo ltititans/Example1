@@ -6,6 +6,7 @@ class a
 		System.out.println("Hi");
 		
 		System.out.println("Bye");
+	        
+		System.out.println("gxfghf");
 	}
 }
-
